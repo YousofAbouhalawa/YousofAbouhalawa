@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yousof Abouhalawa  
+MBBS student and passionate software developer with a focus on full-stack web and mobile development.  
+Currently working part-time at KOMMERS.
 
-<!--
-**YousofAbouhalawa/YousofAbouhalawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech I work with
 
-Here are some ideas to get you started:
+### Frontend  
+React, Next.js, Svelte, SvelteKit, Vue, Astro, HTML, CSS, JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend  
+Nest.js, Python
+
+### Mobile  
+React Native (Expo), Swift, SwiftUI
+
+## Socials
+- [Website](https://yousofabouhalawa.com)
+- [Twitter](https://x.com/YAbouhalawa)
+- [Bluesky](https://bsky.app/profile/yousofabouhalawa.bsky.social)
+- [Medium](https://medium.com/@yousofabouhalawa)
